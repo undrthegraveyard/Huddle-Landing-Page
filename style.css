@@ -42,7 +42,7 @@ body{
     height: auto;
     width: 100vw;
     background-color: var(--clr-primary-400);
-    background-image: url("/images/bg-mobile.svg");
+    background-image: url("./images/bg-mobile.svg");
     background-size: 100%;
     background-position: 0 0;
     background-repeat: no-repeat;
