@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/undrthegraveyard/Huddle-Landing-Page.git)
-- Live Site URL: ()
+- Live Site URL: (https://undrthegraveyard.github.io/Huddle-Landing-Page/)
 
 ### Built with
 
